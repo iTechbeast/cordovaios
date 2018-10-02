@@ -1,1 +1,1 @@
-iOS test application build via cordova
+iOS test application built with cordova
